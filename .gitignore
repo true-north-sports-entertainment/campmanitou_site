@@ -1,0 +1,61 @@
+# ==========================
+# Core WordPress exclusions
+# ==========================
+wp-config.php
+wp-content/uploads/
+wp-content/upgrade/
+wp-content/cache/
+wp-content/advanced-cache.php
+wp-content/backups/
+wp-content/wp-cache-config.php
+wp-content/plugins/hello.php
+
+# ==========================
+# Composer dependencies
+# ==========================
+/vendor/
+/composer.lock
+
+# ==========================
+# Node/NPM (if used)
+# ==========================
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# ==========================
+# Sensitive files
+# ==========================
+.env
+.env.*
+*.env
+*.env.*
+
+# ==========================
+# OS / Editor clutter
+# ==========================
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*.bak
+
+# ==========================
+# IDE settings
+# ==========================
+.vscode/
+.idea/
+*.code-workspace
+
+# ==========================
+# Log files
+# ==========================
+*.log
+wp-content/debug.log
+.env
+wp-content/themes/tnse/video/
+
+# Elastic Beanstalk Files
+.elasticbeanstalk/*
+!.elasticbeanstalk/*.cfg.yml
+!.elasticbeanstalk/*.global.yml
