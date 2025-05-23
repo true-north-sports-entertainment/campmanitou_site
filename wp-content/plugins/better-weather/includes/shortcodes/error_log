@@ -1,0 +1,13 @@
+[04-Feb-2016 13:24:07 UTC] PHP Fatal error:  Class 'BF_Shortcode' not found in /home/campmanitoumb/public_html/wp-content/plugins/better-weather/includes/shortcodes/class-better-weather-inline-shortcode.php on line 6
+[04-Feb-2016 13:24:28 UTC] PHP Fatal error:  Class 'BF_Shortcode' not found in /home/campmanitoumb/public_html/wp-content/plugins/better-weather/includes/shortcodes/class-better-weather-shortcode.php on line 6
+[06-May-2016 11:22:52 UTC] PHP Fatal error:  Class 'BF_Shortcode' not found in /home/campmanitoumb/public_html/wp-content/plugins/better-weather/includes/shortcodes/class-better-weather-shortcode.php on line 6
+[06-May-2016 11:22:52 UTC] PHP Fatal error:  Class 'BF_Shortcode' not found in /home/campmanitoumb/public_html/wp-content/plugins/better-weather/includes/shortcodes/class-better-weather-inline-shortcode.php on line 6
+[18-Jun-2016 09:11:20 UTC] PHP Fatal error:  Class 'BF_Shortcode' not found in /home/campmanitoumb/public_html/wp-content/plugins/better-weather/includes/shortcodes/class-better-weather-inline-shortcode.php on line 6
+[18-Jun-2016 09:11:21 UTC] PHP Fatal error:  Class 'BF_Shortcode' not found in /home/campmanitoumb/public_html/wp-content/plugins/better-weather/includes/shortcodes/class-better-weather-shortcode.php on line 6
+[15-Nov-2016 20:29:31 UTC] PHP Fatal error:  Class 'BF_Shortcode' not found in /home/campmanitoumb/public_html/wp-content/plugins/better-weather/includes/shortcodes/class-better-weather-inline-shortcode.php on line 6
+[15-Nov-2016 20:29:33 UTC] PHP Fatal error:  Class 'BF_Shortcode' not found in /home/campmanitoumb/public_html/wp-content/plugins/better-weather/includes/shortcodes/class-better-weather-shortcode.php on line 6
+[17-Jan-2018 01:28:35 UTC] PHP Fatal error:  Class 'BF_Shortcode' not found in /home/campmanitoumb/public_html/wp-content/plugins/better-weather/includes/shortcodes/class-better-weather-shortcode.php on line 6
+[04-Sep-2019 20:52:22 UTC] PHP Fatal error:  Uncaught Error: Class 'BF_Shortcode' not found in /home/campmanitoumb/public_html/wp-content/plugins/better-weather/includes/shortcodes/class-better-weather-shortcode.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/campmanitoumb/public_html/wp-content/plugins/better-weather/includes/shortcodes/class-better-weather-shortcode.php on line 6

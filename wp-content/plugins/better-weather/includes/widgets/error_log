@@ -1,0 +1,8 @@
+[04-Feb-2016 13:21:12 UTC] PHP Fatal error:  Class 'BF_Widget' not found in /home/campmanitoumb/public_html/wp-content/plugins/better-weather/includes/widgets/class-better-weather-inline-widget.php on line 6
+[04-Feb-2016 13:22:29 UTC] PHP Fatal error:  Class 'BF_Widget' not found in /home/campmanitoumb/public_html/wp-content/plugins/better-weather/includes/widgets/class-better-weather-widget.php on line 6
+[06-May-2016 11:22:52 UTC] PHP Fatal error:  Class 'BF_Widget' not found in /home/campmanitoumb/public_html/wp-content/plugins/better-weather/includes/widgets/class-better-weather-widget.php on line 6
+[06-May-2016 11:22:52 UTC] PHP Fatal error:  Class 'BF_Widget' not found in /home/campmanitoumb/public_html/wp-content/plugins/better-weather/includes/widgets/class-better-weather-inline-widget.php on line 6
+[18-Jun-2016 09:11:16 UTC] PHP Fatal error:  Class 'BF_Widget' not found in /home/campmanitoumb/public_html/wp-content/plugins/better-weather/includes/widgets/class-better-weather-widget.php on line 6
+[18-Jun-2016 09:11:18 UTC] PHP Fatal error:  Class 'BF_Widget' not found in /home/campmanitoumb/public_html/wp-content/plugins/better-weather/includes/widgets/class-better-weather-inline-widget.php on line 6
+[01-Dec-2016 14:55:15 UTC] PHP Fatal error:  Class 'BF_Widget' not found in /home/campmanitoumb/public_html/wp-content/plugins/better-weather/includes/widgets/class-better-weather-inline-widget.php on line 6
+[01-Dec-2016 14:58:03 UTC] PHP Fatal error:  Class 'BF_Widget' not found in /home/campmanitoumb/public_html/wp-content/plugins/better-weather/includes/widgets/class-better-weather-widget.php on line 6

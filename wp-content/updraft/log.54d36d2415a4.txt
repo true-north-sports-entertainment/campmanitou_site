@@ -1,0 +1,6 @@
+0000.000 (2) Opened log file at time: Fri, 23 May 2025 21:00:17 +0000 on http://local-www.campmanitou.mb.ca
+0000.002 (2) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 2.25.5.0 WP: 6.8.1 PHP: 7.4.33 (cgi-fcgi, Darwin Fabio-Bellisario.local 23.6.0 Darwin Kernel Version 23.6.0: Thu Mar  6 21:58:03 PST 2025; root:xnu-10063.141.1.704.6~1/RELEASE_X86_64 x86_64) MySQL: 8.0.40 (max packet size=134217728) WPLANG: en_CA Server: Apache/2.4.62 (Unix) mod_wsgi/5.0.1 Python/3.10 mod_fastcgi/mod_fastcgi-SNAP-0910052141 OpenSSL/1.1.1w safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 12.7M | 14M) multisite: N openssl: OpenSSL 1.1.1w  11 Sep 2023 mcrypt: N LANG:  WP Proxy: disabled ZipArchive::addFile: Y
+0000.003 (2) Free space on disk containing Updraft's temporary directory: 167006.4 MB
+0000.006 (2) Requesting backup semaphore lock (54d36d2415a4)
+0000.007 (2) [Info] Lock (updraft_lock_54d36d2415a4, wp_options) acquired
+0000.008 (2) This backup task (54d36d2415a4) is either complete or began over 2 days ago: ending (1748034017.329, ) (existing jobdata keys: )
